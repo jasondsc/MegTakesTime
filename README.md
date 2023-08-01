@@ -1,19 +1,20 @@
 # Recording length needed to achieve statistical power in neurophysiology 
 
-Code for simulating neural time series.
+This GitHub repo contains code for i) simulating neural time series and ii) testing the data duration needed to observe a stable statitical between-groups effect
 
 
 # Information
 
-Code for simulating time series.
+Code for simulating time series contained in folder XXXX. This code relies on the NeuroDSP toolbox. We simulate participants from two cohorts using input spectral parameters (e.g., aperiodic slope, alpha peak frequency) taken from a normal distribution. We parametrically manipulate the disrtibution of a single sopectral parameetrr across a group such that we end up with nine simulations (three effect sizes and three spectral parameters). 
 
-Please contact the authors of this package for any questions and suggestions.
+Please see the methods XXXX for details. 
+
 
 # Citation
 
-If you use this software, please cite it:
+Please contact the authors of this package for any questions and suggestions.
 
-To cite SPRiNT in publications, please use:
+If you use this software, please cite it: XXXXX
 
 
 
