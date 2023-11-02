@@ -1,6 +1,6 @@
-# Recording length needed to achieve statistical power in neurophysiology 
+# Recording length needed to achieve robust statistical effects in neurophysiology 
 
-This GitHub repo contains code for i) simulating neural time series and ii) testing the data duration needed to observe a stable statitical between-groups effect
+This GitHub repo contains code for i) simulating neural time series and ii) testing the data duration needed to observe stable statitical between-groups effect.
 
 
 # Information
