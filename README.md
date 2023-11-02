@@ -5,7 +5,7 @@ This GitHub repo contains code for i) simulating neural time series based on [Ne
 
 # Information
 
-Code for simulating time series contained in folder [Simulations](../../Simulations). This code relies on the [NeuroDSP toolbox](https://neurodsp-tools.github.io/neurodsp/). We simulate participants from two cohorts using input spectral parameters (e.g., aperiodic slope, alpha peak frequency) taken from a normal distribution. We parametrically manipulate the disrtibution of a single sopectral parameetrr across a group such that we end up with nine simulations (three effect sizes and three spectral parameters). 
+Code for simulating time series contained in folder [Simulations](../../tree/main/Simulations). This code relies on the [NeuroDSP toolbox](https://neurodsp-tools.github.io/neurodsp/). We simulate participants from two cohorts using input spectral parameters (e.g., aperiodic slope, alpha peak frequency) taken from a normal distribution. We parametrically manipulate the disrtibution of a single sopectral parameetrr across a group such that we end up with nine simulations (three effect sizes and three spectral parameters). 
 
 Please see the methods XXXX for details. 
 
