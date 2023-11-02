@@ -1,6 +1,6 @@
 # Recording length needed to achieve robust statistical effects in neurophysiology 
 
-This GitHub repo contains code for i) simulating neural time series and ii) testing the data duration needed to observe stable statitical between-groups effect.
+This GitHub repo contains code for i) simulating neural time series based on [NeuroDSP](https://neurodsp-tools.github.io/neurodsp/)  and ii) testing the data duration needed to observe stable statitical between-groups effect.
 
 
 # Information
